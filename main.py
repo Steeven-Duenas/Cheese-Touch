@@ -1,0 +1,1 @@
+print("This is the empty but first version of the Sudoku solver")
